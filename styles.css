@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+#header {
+  font-family: cursive, sans-serif;
+}
+
+.bigger-font {
+  font-size: 46px;
+}
+
+.green-text {
+  color: green;
+}
